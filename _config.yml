@@ -109,3 +109,4 @@ aplayer:
 deploy:
   type: git
   repo: https://github.com/Andyersu/Andyersu.github.io.git
+  branch: master
