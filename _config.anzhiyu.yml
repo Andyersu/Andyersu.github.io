@@ -16,8 +16,8 @@ menu:
     小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   关于:
-    关于本人: /about/ || anzhiyu-icon-paper-plane
-    闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+    自我介绍: /about/ || anzhiyu-icon-paper-plane
+    碎碎念: /essay/ || anzhiyu-icon-lightbulb
     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
@@ -173,7 +173,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: "请尝试站内搜索寻找文章"
+  subtitle: "页面好像不见了捏····"
   background: https://bu.dusays.com/2023/05/08/645907596997d.gif
 
 post_meta:
@@ -961,7 +961,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: //at.alicdn.com/t/c/font_4450633_9v7zapnkfc.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: //at.alicdn.com/t/c/font_4450633_m957kjwezb.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
