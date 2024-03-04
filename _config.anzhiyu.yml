@@ -67,7 +67,7 @@ copy:
 #   name: link || icon
 social:
   BiliBili: https://space.bilibili.com/412126921 || icon-bilibili
-  Email: Ryla.su@shijigroup.com || icon-youxiang
+  github: https://github.com/Andyersu || icon-github2
   QQ: tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=978776921 || icon-QQ
 
 # 作者卡片 状态
@@ -141,7 +141,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://www4.bing.com//th?id=OHR.ModicaItaly_ZH-CN3893147952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+  img: https://bu.dusays.com/2024/03/03/65e45db81a055.jpg
   effect: false
 
 # Disable all banner image
@@ -417,7 +417,7 @@ footer:
   custom_text:
   runtime:
     enable: true
-    launch_time: 04/01/2024 00:00:00 # 网站上线时间
+    launch_time: 01/01/2024 00:00:00 # 网站上线时间
     work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
     offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
@@ -425,7 +425,7 @@ footer:
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
   bdageitem:
-    enable: false
+    enable: true
     list:
       - link: https://hexo.io/ #徽标指向网站链接
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
