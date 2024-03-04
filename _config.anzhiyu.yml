@@ -794,7 +794,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description:  <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">一些日常分享</div> # 默认为站点描述
+    description:  <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">希望你可以在这里找到对你有用的知识、内容</div> # 默认为站点描述
     name_link: /
 
   card_announcement:
@@ -1068,11 +1068,11 @@ home_top:
 
 # 朋友圈配置
 friends_vue:
-  enable: false
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
-  apiurl: # 朋友圈后端地址
+  enable: true
+  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.2/friends/index.f9a2b8d2.js
+  apiurl: https://friends.anheyu.com/
   top_tips: 使用 友链朋友圈 订阅友链最新文章
-  top_background:
+  top_background: https://bu.dusays.com/2024/03/05/65e6006578c84.png
 
 # 深色模式粒子效果canvas
 universe:
