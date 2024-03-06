@@ -28,7 +28,7 @@
     tips: 平常都在干啥
     title: 没事就捣鼓一下这些
   careers:
-    tips: 掌握的
+    tips: 
     title: 查缺补漏中
     list:
       - desc: EDU,网络工程专业
@@ -37,7 +37,7 @@
         color: "#357ef5"
       - desc: EDU,软件工程专业
         color: "#357ef5"
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+    img: 
   statistic:
     link: /archives
     text: 文章隧道
