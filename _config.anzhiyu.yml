@@ -35,7 +35,7 @@ nav:
       item:
         - name: 去不图床
           link: https://7bu.top/
-          icon: https://image.anheyu.com/favicon.ico
+          icon: icon-bingqilin
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -425,7 +425,7 @@ footer:
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
   bdageitem:
-    enable: true
+    enable: false
     list:
       - link: https://hexo.io/ #徽标指向网站链接
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
@@ -447,7 +447,7 @@ footer:
     centerImg:
     left:
       - title: Email
-        link: 978776921@qq.com
+        link: mailto:978776921@qq.com
         icon: icon-youxiang
       - title: QQ
         link: tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=978776921
@@ -466,8 +466,8 @@ footer:
         link: https://space.bilibili.com/412126921
         icon: icon-bilibili
       - title: 抖音
-        link: https://v.douyin.com/DwCpMEy/
-        icon: anzhiyu-icon-tiktok
+        link: https://v.douyin.com/iFr967uF
+        icon: icon-douyin
       # - title: CC
       #   link: /copyright
       #   icon: anzhiyu-icon-copyright-line
@@ -516,12 +516,12 @@ footer:
     linkList:
       - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
         text: 主题
-      # - link: https://image.anheyu.com
-      #   text: 图床
+      - link: https://7bu.top
+        text: 图床
       # - link: https://beian.miit.gov.cn/
       #   text: 湘ICP备-xxxxxxx号
     subTitle:
-      enable: false
+      enable: true
       # Typewriter Effect (打字效果)
       effect: true
       # Effect Speed Options (打字效果速度参数)
