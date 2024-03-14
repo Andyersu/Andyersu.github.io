@@ -30,12 +30,12 @@ nav:
       item:
         - name: 博客
           link: http://www.ytmiki.cn
-          icon: icon-bingqilin
+          icon: /img/冰淇淋.png
     - title: 项目
       item:
         - name: 去不图床
           link: https://7bu.top/
-          icon: icon-Photo
+          icon: /img/Photo.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -137,7 +137,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: icon-bingqilin
+favicon: /img/冰淇淋.png
 
 # Avatar (头像)
 avatar:
@@ -774,7 +774,7 @@ preloader:
   # 1. fullpage-loading
   # 2. pace (progress bar)
   # else all
-  source: 3
+  source: 2
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
   avatar: https://bu.dusays.com/2024/03/03/65e45db81a055.jpg # 自定加载动画义头像
