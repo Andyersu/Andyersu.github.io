@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - class_name: 夕阳与风景
   path_name: /Scenery
   type: 2
@@ -38,4 +39,46 @@
     - date: 2022-10-24
       content: 老妹的画
       image:
+=======
+- class_name: 夕阳与风景
+  path_name: /Scenery
+  type: 2
+  description: 看看摄影小白的作品🎈
+  cover: https://bu.dusays.com/2024/03/05/65e73a8e027fd.jpg
+  top_background: https://bu.dusays.com/2024/03/05/65e73a8e027fd.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+    - date: 2022-10-25
+      content: 洛阳暴雨后的天空。
+      address: 河南洛阳
+      from: 紫菜卷
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+- class_name: 我的日常
+  path_name: /myPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  album_list:
+    - date: 2022-10-24
+      content: 老妹的画
+      image:
+>>>>>>> 95d7891 (重置文件夹)
         - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
