@@ -1224,6 +1224,7 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/icat.css?1">
+    - <link rel="stylesheet" href="/css/homecard.css">
 
   bottom:
     # 自定义js
