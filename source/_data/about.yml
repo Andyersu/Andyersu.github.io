@@ -25,8 +25,8 @@
       - 体验
   helloAbout: Hello
   skillsTips:
-    tips: 平常都在干啥
-    title: 没事就捣鼓一下这些
+    tips: 钻研
+    title: 学习
   careers:
     tips: 
     title: 查缺补漏中
@@ -52,8 +52,8 @@
     selfInfoContentYear: 1998
     selfInfoTips2: 桂林电子科技大学
     selfInfoContent2: 网络工程
-    selfInfoTips3: 现在职业
-    selfInfoContent3: 售后工程师👨‍🎓
+    selfInfoTips3: 职业
+    selfInfoContent3: 打工人👨‍🎓
   personalities:
     author_name: 逻辑学家
     personality_type: INTP
@@ -99,8 +99,8 @@
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好
-    music_title: 电子、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_title: 纯音乐、民谣、华语流行
+    music_bg: https://bu.dusays.com/2024/03/27/6604388143182.jpg
     music_link: /music
   reward_list:
     - name: Eric

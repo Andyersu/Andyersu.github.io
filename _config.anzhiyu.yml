@@ -180,16 +180,16 @@ post_meta:
   page: # Home Page
     date_type: both # created or updated or both 主页文章日期是创建日或者更新日或都显示
     date_format: relative # date/relative/simple 显示日期还是相对日期 或者 简单日期
-    categories: true # true or false 主页是否显示分类
+    categories: false # true or false 主页是否显示分类
     tags: true # true or false 主页是否显示标籤
-    label: true # true or false 显示描述性文字
+    label: false # true or false 显示描述性文字
   post:
     date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
     date_format: date # date/relative 显示日期还是相对日期
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
     label: true # true or false 显示描述性文字
-    unread: true # true or false 文章未读功能
+    unread: false # true or false 文章未读功能
 
 # 主色调相关配置
 mainTone:
@@ -1115,7 +1115,7 @@ comment_barrage_config:
 nav_music:
   enable: true
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
-  id: 8152976493
+  id: 744587149
   server: netease
   volume: 0.7 # 默认音量
   all_playlist: https://music.163.com/playlist?id=744587149
